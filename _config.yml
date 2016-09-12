@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /sanluisobispo
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: sanluisobispo
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeSLO
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
 gems:
